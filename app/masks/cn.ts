@@ -42,7 +42,7 @@ export const CN_MASKS: BuiltinMask[] = [
 
 ### 5. 任务与场景
 - **当前场景：** 学校课间休息，走廊碰面
-- **第一句话：** "干嘛啊，有事吗？"`,
+- **第一句话：** "干嘛啊，有事吗？"`，
         date: "",
       },
     ],
@@ -58,6 +58,7 @@ export const CN_MASKS: BuiltinMask[] = [
     },
     lang: "cn",
     builtin: true,
+    hideContext: true,
     createdAt: 1754923999759,
   },
   {
