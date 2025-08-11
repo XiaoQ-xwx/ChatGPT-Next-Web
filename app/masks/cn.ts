@@ -55,10 +55,10 @@ export const CN_MASKS: BuiltinMask[] = [
       sendMemory: true,
       historyMessageCount: 12,
       compressMessageLengthThreshold: 1000,
+      hideContext: true,   
     },
     lang: "cn",
     builtin: true,
-    hideContext: true,
     createdAt: 1754923999759,
   },
   {
